@@ -6,7 +6,7 @@ package com.swetha_v.assignment2;
 public class MainClass {
     public static void main(String[] args) {
         // Create Student object
-        Student s = new Student(); // This will print "Student object is created"
+        // This will print "Student object is created"
 
         // Create Commission object
         Commission emp = new Commission();
